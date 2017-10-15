@@ -1,0 +1,17 @@
+h1 {
+    color: #ffffff;
+    font-size: 200px;
+    font-weight: normal;
+}
+p {
+  color: #88F9D4;
+  font-size: 120px;
+}
+body {
+    background-color: #FC4349;
+    background-image: url("images/hallelujah.mp4");
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: 'Modak', cursive;
+    font-weight: ;
+}
